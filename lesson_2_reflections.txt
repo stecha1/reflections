@@ -1,0 +1,1 @@
+staging area is used for commit saving changes, which are not big enough or complete to commit to the repository yet.
